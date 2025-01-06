@@ -10,3 +10,5 @@ The tutorial is divided into two parts:
 Both tutorials are presented as well-commented and highly readable Jupyter notebooks. Readers will gain a clear understanding of WeakIdent's implementation and can easily experiment by modifying the provided code and parameters.
 
 It is recommended to run the tutorials on Google Colab, with a linked Google Drive account to store the data generated in the first part, which will be used in the second part.
+
+This repository can also be seen here: https://github.com/whao36/WeakIdent-Tutorial
